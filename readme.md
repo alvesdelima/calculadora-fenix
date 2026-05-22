@@ -2,13 +2,13 @@
 
 > *"Você não está fazendo uma venda. Você está construindo um ativo mensal."*
 
-Uma calculadora interativa desenvolvida para os alunos do **Método Fênix**, de **Simone Magalhães** — treinamento focado em ajudar corretores de seguro a construírem uma renda recorrente de R$ 10k/mês.
+Uma calculadora interativa desenvolvida para os alunos do **Método Fênix**, de **Simone Magalhães**, treinamento focado em ajudar corretores de seguro a construírem uma renda recorrente de R$ 10k/mês.
 
 ---
 
 ## ✨ Sobre o projeto
 
-A ideia central é mostrar, de forma visual e impactante, que cada apólice vendida não é apenas uma comissão — é um ativo que cresce mês a mês. A calculadora transforma números abstratos em clareza estratégica para o corretor.
+A ideia central é mostrar, de forma visual e impactante, que cada apólice vendida não é apenas uma comissão, é um ativo que cresce mês a mês. A calculadora transforma números abstratos em clareza estratégica para o corretor.
 
 Desenvolvida com **HTML, CSS e JavaScript puro**, sem dependências externas. Abre direto no navegador.
 
@@ -60,7 +60,7 @@ git clone https://github.com/seu-usuario/calculadora-fenix.git
 open calculadora_fenix.html
 ```
 
-Ou acesse direto via [GitHub Pages](#) ← *(ative nas configurações do repositório)*
+Ou acesse direto via [GitHub Pages](https://alvesdelima.github.io/calculadora-fenix/)
 
 ---
 
@@ -86,7 +86,7 @@ calculadora-fenix/
 
 ## 💡 Contexto
 
-Este projeto faz parte do ecossistema do **Método Fênix**, criado por Simone Magalhães para capacitar corretores de seguro a venderem com estratégia e construírem renda recorrente. A calculadora é usada como ferramenta de apoio pedagógico — ela não só mostra o resultado, ela muda a mentalidade do corretor sobre o que significa cada venda.
+Este projeto faz parte do ecossistema do **Método Fênix**, criado por Simone Magalhães para capacitar corretores de seguro a venderem com estratégia e construírem renda recorrente. A calculadora é usada como ferramenta de apoio pedagógico, ela não só mostra o resultado, ela muda a mentalidade do corretor sobre o que significa cada venda.
 
 ---
 
